@@ -1,4 +1,4 @@
-from pyrogram.types import (
+from pyrofork.types import (
     InlineKeyboardButton,
     InlineKeyboardMarkup,
     KeyboardButton,
